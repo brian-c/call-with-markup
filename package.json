@@ -1,0 +1,12 @@
+{
+  "name": "call-with-markup",
+  "version": "0.0.1",
+  "devDependencies": {
+    "eslint-config-semistandard": "^6.0.1",
+    "jsdom": "^8.4.1",
+    "mocha": "^2.4.5"
+  },
+  "scripts": {
+    "test": "mocha ./test.js"
+  }
+}
